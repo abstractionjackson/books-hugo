@@ -1,0 +1,6 @@
+#+TITLE: {{ replace .File.ContentBaseName "-" " " | title }}
+#+AUTHOR: nil
+#+CATEGORIES[]: TO_READ
+#+CREATED_AT: {{ .Date }}
+#+UPDATED_AT: {{ .Date }}
+* Notes

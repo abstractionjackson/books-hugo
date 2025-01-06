@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<p style="font-family: 'Times New Roman', Times, serif">
+  San Francisco Software Engineer <i>abstractionjackson</i> reads on various
+  subjects. This is his library.
+</p>
+
+<hr />
+{{ $categoryOrder := site.Params.categoryOrder }}
+<ul style="list-style: none; padding: 0">
+  {{ range $categoryOrder }} {{ $category := index $.Site.Taxonomies.categories
+  (. | lower) }} {{ if $category }}
+  <li>
+    <h2>
+      {{ index site.Params.categoryMap . }} {{ partial
+      "taxonomy/categories/count_link.html" $category }}
+    </h2>
+    {{ partial "taxonomy/categories/preview.html" $category }}
+  </li>
+  {{ end }} {{ end }}
+</ul>
+{{ end }}

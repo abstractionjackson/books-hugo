@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 🪶 Ex Libris Abstractio Jocqus</title>
+    <link>http://localhost:1313/books-hugo/categories/</link>
+    <description>Recent content in Categories on 🪶 Ex Libris Abstractio Jocqus</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/books-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Read</title>
+      <link>http://localhost:1313/books-hugo/categories/read/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books-hugo/categories/read/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/books-hugo/categories/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books-hugo/categories/reading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>To Read</title>
+      <link>http://localhost:1313/books-hugo/categories/to_read/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books-hugo/categories/to_read/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

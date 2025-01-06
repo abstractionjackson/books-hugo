@@ -1,0 +1,31 @@
+:root {
+  /* --link-color: #3498db; */
+  --link-color: #000;
+}
+
+html,
+body {
+  font-family: sans-serif;
+}
+
+body {
+  padding: 2rem;
+  height: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+footer {
+  margin-top: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+a,
+a:visited {
+  color: var(--link-color);
+}

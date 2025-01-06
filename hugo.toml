@@ -1,0 +1,9 @@
+baseURL = 'https://abstractionjackson.github.io/books-hugo/'
+languageCode = 'en-us'
+title = '🪶 Ex Libris Abstractio Jocqus'
+theme = 'ex-libris'
+
+
+[params]
+categoryMap = { "TO_READ" = "To Read", "READING" = "Reading", "READ" = "Read" }
+categoryOrder = ["READING", "TO_READ", "READ"]

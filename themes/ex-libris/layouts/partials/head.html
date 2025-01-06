@@ -1,0 +1,29 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+<title>
+  {{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title
+  site.Title }}{{ end }}
+</title>
+<link
+  rel="icon"
+  type="image/png"
+  href="/icons/favicon-96x96.png"
+  sizes="96x96"
+/>
+<link
+  rel="icon"
+  type="image/svg+xml"
+  href="{{ site.BaseURL }}/icons/favicon.svg"
+/>
+<link rel="shortcut icon" href="{{ site.BaseURL }}/icons/favicon.ico" />
+<link
+  rel="apple-touch-icon"
+  sizes="180x180"
+  href="{{ site.BaseURL }}/icons/apple-touch-icon.png"
+/>
+<link rel="manifest" href="{{ site.BaseURL }}/icons/site.webmanifest" />
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.css"
+/>
+{{ partialCached "head/css.html" . }} {{ partialCached "head/js.html" . }}

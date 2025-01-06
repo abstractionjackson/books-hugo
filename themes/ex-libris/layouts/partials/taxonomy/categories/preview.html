@@ -1,0 +1,11 @@
+{{- $category := . -}} {{- $sortedPages := sort $category.Pages
+"Params.UPDATED_AT" "desc" -}}
+<ul>
+  {{- range first 3 $sortedPages -}}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </li>
+  {{- end -}} {{- if gt (len $sortedPages) 3 -}}
+  <li>...</li>
+  {{- end -}}
+</ul>
