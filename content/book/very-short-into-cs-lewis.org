@@ -1,0 +1,24 @@
+#+TITLE: A Very Short Introduction to C.S. Lewis
+#+AUTHOR: nil
+#+CATEGORIES[]: TO_READ
+#+CREATED_AT: 2025-01-09T21:41:53-08:00
+#+UPDATED_AT: 2025-01-09T21:41:53-08:00
+* Notes
+** Lewsian Character
+- Locked-in: constantly working from dawn till day's end, like
+  J.S. Bach.
+- Bigoted: anti-Catholic since childhood, and he never shook it
+- "portly"
+- A "life of the party" figure
+- Outspoken (to state the obvious)
+- A legit English poet
+** Noteworthy Books About Lewis
+- /C.S. Lewis: The Shape of His Faith/
+** Works of Interest
+- /The Chronicles of Narnia/
+- /Till We Have Faces/
+  - Seems like his /Finnegan's Wake/
+- /Mere Christianity/
+** Biographical Tidbits
+- T.S. Eliot and Lewis met, and bristled at one another, but kept in
+  touch, and -- eventually - became good friends.
