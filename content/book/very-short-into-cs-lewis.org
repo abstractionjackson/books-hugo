@@ -1,6 +1,6 @@
 #+TITLE: A Very Short Introduction to C.S. Lewis
 #+AUTHOR: nil
-#+CATEGORIES[]: TO_READ
+#+CATEGORIES[]: READ
 #+CREATED_AT: 2025-01-09T21:41:53-08:00
 #+UPDATED_AT: 2025-01-09T21:41:53-08:00
 * Notes
