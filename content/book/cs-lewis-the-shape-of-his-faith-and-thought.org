@@ -1,0 +1,36 @@
+#+TITLE: C.S. Lewis: The Shape of His Faith and Thought
+#+AUTHOR: Holmer, Paul L.
+#+CATEGORIES[]: READING
+#+CREATED_AT: 2025-01-12T21:02:56-08:00
+#+UPDATED_AT: 2025-01-12T21:02:56-08:00
+* Notes
+** Preface
+When the author (of this book) was a young man, he wrote Lewis a
+confrontational letter, and received a gentle reply. In game theory,
+this is the equivalent of a greedy move, met with an amiable rejoinder.
+** 1 - Some Reminders about Lewis and His Literature
+- Lewis was witty
+- His writing don't address the war
+- Lewis served in WWI, wrote during WWII
+- Christianity is a major -- if not /the/ major -- theme of his work
+- /nostrum/ n. - an ineffective medicine, as if made by a quack
+- his work makes a case for the "forgotton strategy" of achieving our
+  haman capacity
+  - Christianity
+    #+BEGIN_QUOTE
+It ought to be noted that Lewis's Christian literature is both so
+*sophisticated*, and that it supports highly developed thoughts and
+*popular*, and that it appeals to a wide range of readers. He does not
+achieve the latter by pandering to the notion that he will disclose
+the secrets of *his* life, or flatter the reader with extravagant
+*spates* of experience (9)
+#+END_QUOTE
+  - Lewis doesn't "take seriously the kind of ideological schools that
+    develop in [the world of] literary citicism"
+  - Throughout the war, he wrote a total of 11 books, in addition to
+    essays, so he was prolific. What's more that fact, coupled with
+    the detachment from literary critical schools noted above, shows
+    that he was "doing his own thing". His Christian literature is unique.
+  - What the author calls his "shape of thought" appears, from this
+    first chapter, to be a mark of Lewis' individuality; he was not a
+    part of critical literary school, and he had his own voice.
